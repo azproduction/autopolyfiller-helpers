@@ -1,1 +1,1 @@
-# Helpers for making polyfills for Autopolyfiller
+# Helpers for Autopolyfiller's polyfills
